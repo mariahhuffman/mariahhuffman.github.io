@@ -109,11 +109,13 @@ a:hover small {
 
 ul {
     list-style: none;
+    padding: 0px;
 }
 
 ul li:before
 {
     content: '\003E';
+    margin: 0 1em;
 }
 
 .wrapper {
