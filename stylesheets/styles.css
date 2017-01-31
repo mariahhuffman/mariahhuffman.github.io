@@ -107,6 +107,17 @@ a:hover small {
   color:#777;
 }
 
+ul {
+    list-style: none;
+    padding: 0px;
+}
+
+ul li:before
+{
+    content: '\u003E';
+    margin: 0 1em;    
+}
+
 .wrapper {
   width:860px;
   margin:0 auto;
