@@ -58,6 +58,7 @@ body {
   background-color: #fff;
   padding:50px;
   font: 13px "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 15px;
   color:#727272;
   font-weight:400;
 }
