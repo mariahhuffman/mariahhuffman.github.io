@@ -113,7 +113,7 @@ ul {
 
 ul li:before
 {
-    content: '\003E';
+    content: '>';
 }
 
 .wrapper {
