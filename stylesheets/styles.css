@@ -59,12 +59,12 @@ body {
   padding:50px;
   font: 13px "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 15px;
-  color:#727272;
+  color:#3a3a3a;
   font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#727272;
+  color:#3a3a3a;
   margin:0 0 20px;
 }
 
@@ -81,23 +81,27 @@ h1 {
 }
 
 a {
-  color:#a1c8be;
+  color:#fff;
+  background-color:#544e99;
   text-decoration:none;
 }
 
 a:hover {
-  color:#cae8e8;
+  color:#544e99;
+  background-color:none;
 }
 
 a small {
   font-size:11px;
-  color:#777;
+  color:#fff;
+  background-color:#544e99;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#777;
+  color:#544e99;
+  background-color:none;
 }
 
 ul {
