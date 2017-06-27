@@ -57,14 +57,14 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 13px "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 13px Futura, sans-serif;
   line-height: 15px;
-  color:#3a3a3a;
+  color:#565051;
   font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#3a3a3a;
+  color:#000;
   margin:0 0 20px;
 }
 
