@@ -81,26 +81,26 @@ h1 {
 }
 
 a {
-  color:#fff;
-  background-color:#544e99;
-  text-decoration:none;
+  color:#000;
+  background-color:#none;
+  font-weight:bold;
 }
 
 a:hover {
-  color:#544e99;
+  color:#565051;
   background-color:none;
 }
 
 a small {
   font-size:11px;
-  color:#fff;
-  background-color:#544e99;
+  color:#000;
+  background-color:none;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#544e99;
+  color:#565051;
   background-color:none;
 }
 
