@@ -57,7 +57,7 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 13px Futura, sans-serif;
+  font: 14px Futura, sans-serif;
   line-height: 15px;
   color:#565051;
   font-weight:400;
@@ -77,7 +77,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:30px;
+  font-size:28px;
 }
 
 a {
