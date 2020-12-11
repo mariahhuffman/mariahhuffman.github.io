@@ -25,7 +25,7 @@ post_settings:
   grid_spacing: 10
 
 contact_settings:
-  email_address: ''
+  email_address: 'mariah.r.huffman@gmail.com'
   form_action: 'https://formspree.io/f/myybndwa'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
